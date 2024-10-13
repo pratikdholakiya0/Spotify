@@ -50,10 +50,6 @@ We welcome contributions! If you'd like to help improve the app:
 4. Push to your branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to the Spotify team for providing a robust API.
